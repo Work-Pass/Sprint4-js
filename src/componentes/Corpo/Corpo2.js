@@ -1,7 +1,6 @@
-// Corpo2.js
 import './Corpo.css';
 import React from 'react';
-import DadosAPI from './DadosAPI'; // Sem caminho relativo, pois ambos estão no mesmo diretório
+import DadosAPI from './DadosAPI';
 
 function Corpo2() {
     return (
@@ -9,11 +8,12 @@ function Corpo2() {
             <div className="container row bg">
                 <h1 className="fw-bold fst-italic fs-1 my-4">Workstations próximas de você</h1>
             </div>
-            <div className="border border-dark rounded-4 align-items-center bg-color-gray">
+            <div className="border border-dark rounded-4 align-items-center bg-color-gray d-flex">
                 <div className="align-items-center p-2 d-md-flex">
-                    {/* Outros componentes ou elementos aqui */}
                     <DadosAPI />
-                    {/* Outros componentes ou elementos aqui */}
+                </div>
+                <div className="p-2">
+                    <img src="/imagens/Mapa.png" alt="Mapa com workstations proximas" className="img-fluid border-start border-dark align-items-center ps-3"/>
                 </div>
             </div>
         </section>
