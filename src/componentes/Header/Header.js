@@ -1,4 +1,3 @@
-import './Header.css'
 function Header() {
     return (
         <header className="container-fluid d-flex row bg-color-gray">

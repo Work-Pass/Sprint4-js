@@ -1,4 +1,3 @@
-import './Corpo.css'
 function ImgPrincipal () {
     return(
         <main>

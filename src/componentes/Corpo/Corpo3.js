@@ -1,4 +1,3 @@
-import './Corpo.css'
 function Corpo3() {
     return (
         <section className="container" id="secao4">

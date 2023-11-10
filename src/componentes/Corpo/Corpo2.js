@@ -1,4 +1,4 @@
-import './Corpo.css';
+import './DadosApiStyled'
 import React from 'react';
 import DadosAPI from './DadosAPI';
 

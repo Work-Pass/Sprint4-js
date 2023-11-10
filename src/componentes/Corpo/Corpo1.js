@@ -1,4 +1,3 @@
-import './Corpo.css'
 function Corpo1() {
     return(
         <main className="container">

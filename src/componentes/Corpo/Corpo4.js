@@ -1,4 +1,3 @@
-import './Corpo.css'
 function Corpo4() {
     return(
         <section className="container" id="contrar">
