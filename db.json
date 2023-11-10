@@ -1,0 +1,10 @@
+{
+  "locais": [
+    { "id": 1, "local": "RUA ABC", "telefone": "9999-9999" },
+    { "id": 2, "local": "RUA ABC", "telefone": "9999-9999" },
+    { "id": 3, "local": "RUA ABC", "telefone": "9999-9999" },
+    { "id": 4, "local": "RUA ABC", "telefone": "9999-9999" },
+    { "id": 5, "local": "RUA ABC", "telefone": "9999-9999" },
+    { "id": 6, "local": "RUA ABC", "telefone": "9999-9999" }
+  ]
+}
