@@ -1,10 +1,34 @@
 {
   "locais": [
-    { "id": 1, "local": "RUA ABC", "telefone": "9999-9999" },
-    { "id": 2, "local": "RUA ABC", "telefone": "9999-9999" },
-    { "id": 3, "local": "RUA ABC", "telefone": "9999-9999" },
-    { "id": 4, "local": "RUA ABC", "telefone": "9999-9999" },
-    { "id": 5, "local": "RUA ABC", "telefone": "9999-9999" },
-    { "id": 6, "local": "RUA ABC", "telefone": "9999-9999" }
+    {
+      "id": 1,
+      "local": "Rua das Acácias",
+      "telefone": "1234-5678"
+    },
+    {
+      "id": 2,
+      "local": "Avenida dos Ipês",
+      "telefone": "5678-1234"
+    },
+    {
+      "id": 3,
+      "local": "Travessa das Rosas",
+      "telefone": "9876-5432"
+    },
+    {
+      "id": 4,
+      "local": "Alameda das Violetas",
+      "telefone": "2345-6789"
+    },
+    {
+      "id": 5,
+      "local": "Praça das Oliveiras",
+      "telefone": "8765-4321"
+    },
+    {
+      "id": 6,
+      "local": "Estrada do Bosque",
+      "telefone": "4321-8765"
+    }
   ]
 }

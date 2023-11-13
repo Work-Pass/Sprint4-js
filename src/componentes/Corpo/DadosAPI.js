@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import { ListaLocais, LocalItem, LocalTitle, LocalDescription } from './DadosApiStyled';
+// import { ListaLocais, LocalItem, LocalTitle, LocalDescription } from './DadosApiStyled';
+
 
 function DadosAPI() {
     const [dadosAPI, setDadosAPI] = useState([]);
@@ -19,7 +20,7 @@ function DadosAPI() {
     }, []);
     return (
         <div>
-            <ul className="lista-locais">
+            <ul className="ListaLocais">
                 {dadosAPI.map((local) => (
                     <li key={local.id}>
                         WorkStation {local.id} : {local.local} / telefone {local.telefone}
